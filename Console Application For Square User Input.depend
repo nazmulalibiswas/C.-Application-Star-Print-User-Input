@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1643205755 source:c:\users\nazmul ali biswas\documents\programming in c\console application for square user input\main.c
+	<stdio.h>
+	<stdlib.h>
+
